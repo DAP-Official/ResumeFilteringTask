@@ -1,3 +1,5 @@
+# install python-docx and not docx 
+
 from docx import Document
 
 def convertDocxToText(path):
